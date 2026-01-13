@@ -3,7 +3,6 @@
 A simple and efficient **Todo Application** built with **React** that allows users to **add, edit, and delete tasks**.  
 The best part is that all tasks are **stored locally using the browser’s localStorage**, so your data remains saved even after refreshing the page.
 
----
 
 ## Features
 
@@ -14,7 +13,7 @@ The best part is that all tasks are **stored locally using the browser’s local
 - 🔄 Data persists after page reload  
 - 🌐 Global state management using **React Context API**
 
----
+
 
 ## Technologies Used
 
@@ -25,7 +24,7 @@ The best part is that all tasks are **stored locally using the browser’s local
   - `localStorage.getItem()`
   - `localStorage.setItem()`
 
----
+
 
 ## How It Works
 
